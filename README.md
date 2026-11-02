@@ -64,5 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bloomfire is a company surfaced via the API Evangelist harvest backlog (source: apisio-search-qc-2026-10-24) and added to the network as a stub for full-pipeline profiling.
-- https://bloomfire.com
+Bloomfire provides an AI‑first, headless platform for enterprise knowledge management. Their Governed Context for Enterprise AI unifies data, content, and AI models, offering modular services like Universal Connector Framework, Ontology Management, Content Guardrails, and AI‑driven search and summarization. The platform enables organizations to capture, curate, and retrieve enterprise context at scale, supporting use‑cases from conversational AI assistants to analytics and compliance. Bloomfire’s API‑first design lets developers integrate these capabilities into custom applications, driving intelligent insights across the enterprise.
+
+**Areas:** AI · Knowledge-Management · Enterprise · Platform · API-First
+
+## Bloomfire on APIs.io
+
+Everything profiled for Bloomfire is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bloomfire/](https://apis.io/providers/bloomfire/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Bloomfire API](https://apis.io/apis/bloomfire/bloomfire-api/) — API documentation is provided via the Help Center but no machine-readable contract was found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bloomfire Domain Security](https://apis.io/security/bloomfire/bloomfire-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bloomfire.com)
+- [Documentation](https://bloomfire.com/resources/)
+- [Getting started](https://help.bloomfire.com/posts/3492780-getting-started-with-bloomfire)
+- [Pricing](https://bloomfire.com/pricing/)
+- [Support](https://help.bloomfire.com)
+- [Blog](https://bloomfire.com/blog/)
+- [Terms of service](https://bloomfire.com/terms-of-use/)
+- [Privacy policy](https://bloomfire.com/privacy-policy/)
+- [GitHub](https://github.com/bloomfire)
+
+## API Evangelist rating
+
+**Kin Score 18.7** — emerging · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 31.6 |
+
+**Agent readiness 17.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bloomfire/](https://apis.io/providers/bloomfire/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bloomfire: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bloomfire/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
